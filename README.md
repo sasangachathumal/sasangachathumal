@@ -37,6 +37,17 @@ I'm **Sasanga chathumal**, Front-end developer from Sri lanka and have 4+ years 
 <!-- <details>
 <summary> ⚡ : Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#54](https://github.com/intersective/cutie/pull/54) in [intersective/cutie](https://github.com/intersective/cutie)
+2. 💪 Opened PR [#53](https://github.com/intersective/cutie/pull/53) in [intersective/cutie](https://github.com/intersective/cutie)
+3. 💪 Opened PR [#52](https://github.com/intersective/cutie/pull/52) in [intersective/cutie](https://github.com/intersective/cutie)
+4. 💪 Opened PR [#50](https://github.com/intersective/cutie/pull/50) in [intersective/cutie](https://github.com/intersective/cutie)
+5. 💪 Opened PR [#49](https://github.com/intersective/cutie/pull/49) in [intersective/cutie](https://github.com/intersective/cutie)
+6. 💪 Opened PR [#47](https://github.com/intersective/cutie/pull/47) in [intersective/cutie](https://github.com/intersective/cutie)
+7. 💪 Opened PR [#46](https://github.com/intersective/cutie/pull/46) in [intersective/cutie](https://github.com/intersective/cutie)
+8. 💪 Opened PR [#1017](https://github.com/intersective/practera-app-v2/pull/1017) in [intersective/practera-app-v2](https://github.com/intersective/practera-app-v2)
+9. 💪 Opened PR [#45](https://github.com/intersective/cutie/pull/45) in [intersective/cutie](https://github.com/intersective/cutie)
+10. 💪 Opened PR [#1016](https://github.com/intersective/practera-app-v2/pull/1016) in [intersective/practera-app-v2](https://github.com/intersective/practera-app-v2)
+<!--END_SECTION:activity-->
 <!-- </details> -->
 
 [musicYT]: https://www.youtube.com/channel/UCG6U1QEg7yCvQBuMHMZC_bQ
