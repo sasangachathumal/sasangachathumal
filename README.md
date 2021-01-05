@@ -34,11 +34,6 @@ I'm **Sasanga chathumal**, Front-end developer from Sri lanka and have 4+ years 
     [<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm" height="25"/></code>](https://www.npmjs.com/) [<code><img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" alt="Git" height="25"/></code>](https://git-scm.com/) [<code><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="Github" height="25"/></code>](https://github.com/) [<code><img src="https://seeklogo.com/images/B/bitbucket-logo-D072214725-seeklogo.com.png" alt="BitBucket" height="25"/></code>](https://bitbucket.org/) [<code><img src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/sketch/sketch.png" alt="sketch" height="25"/></code>](https://www.sketch.com/) [<code><img src="https://cdn.freebiesupply.com/logos/large/2x/adobe-xd-logo-png-transparent.png" alt="Xd" height="25"/></code>](https://www.adobe.com/products/xd.html) [<code><img src="https://seeklogo.com/images/P/photoshop-2020-logo-37B02055A4-seeklogo.com.png" alt="photoshop" height="25"/></code>](https://www.adobe.com/products/photoshop.html) [<code><img src="https://seeklogo.com/images/A/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png" alt="illustrator" height="25"/></code>](https://www.adobe.com/products/illustrator.html) [<code><img src="https://seeklogo.com/images/A/after-effects-cs6-logo-EC9F3A3961-seeklogo.com.png" alt="aftereffects" height="25"/></code>](https://www.adobe.com/products/aftereffects.html)
 <br/>
 
-<details>
-<summary> ⚡ : Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
-</details>
-
 [musicYT]: https://www.youtube.com/channel/UCG6U1QEg7yCvQBuMHMZC_bQ
 [twitter]: https://twitter.com/SasangaChathum1
 [instagram]: https://www.instagram.com/sasanga_chathumal/
