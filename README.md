@@ -36,6 +36,12 @@ I'm **Sasanga chathumal**, Front-end developer from Sri lanka and have 4+ years 
 
 ### ⚡️: Recent GitHub Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#14](https://github.com/intersective/ng-practera/pull/14) in [intersective/ng-practera](https://github.com/intersective/ng-practera)
+2. 💪 Opened PR [#14](https://github.com/intersective/ng-practera/pull/14) in [intersective/ng-practera](https://github.com/intersective/ng-practera)
+3. 🎉 Merged PR [#1139](https://github.com/intersective/app-v2/pull/1139) in [intersective/app-v2](https://github.com/intersective/app-v2)
+4. 🎉 Merged PR [#1138](https://github.com/intersective/app-v2/pull/1138) in [intersective/app-v2](https://github.com/intersective/app-v2)
+5. 🎉 Merged PR [#1137](https://github.com/intersective/app-v2/pull/1137) in [intersective/app-v2](https://github.com/intersective/app-v2)
+<!--END_SECTION:activity-->
 
 [musicYT]: https://www.youtube.com/channel/UCG6U1QEg7yCvQBuMHMZC_bQ
 [twitter]: https://twitter.com/SasangaChathum1
