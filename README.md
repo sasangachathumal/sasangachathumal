@@ -36,11 +36,11 @@ I'm **Sasanga chathumal**, Front-end developer from Sri lanka and have 4+ years 
 
 ### ⚡️: Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1176](https://github.com/intersective/app-v2/pull/1176) in [intersective/app-v2](https://github.com/intersective/app-v2)
-2. 💪 Opened PR [#1176](https://github.com/intersective/app-v2/pull/1176) in [intersective/app-v2](https://github.com/intersective/app-v2)
-3. 🎉 Merged PR [#7](https://github.com/intersective/practera-sdk/pull/7) in [intersective/practera-sdk](https://github.com/intersective/practera-sdk)
-4. 🗣 Commented on [#7](https://github.com/intersective/practera-sdk/issues/7) in [intersective/practera-sdk](https://github.com/intersective/practera-sdk)
-5. 🎉 Merged PR [#6](https://github.com/intersective/practera-sdk/pull/6) in [intersective/practera-sdk](https://github.com/intersective/practera-sdk)
+1. 💪 Opened PR [#120](https://github.com/intersective/cutie/pull/120) in [intersective/cutie](https://github.com/intersective/cutie)
+2. 🎉 Merged PR [#1176](https://github.com/intersective/app-v2/pull/1176) in [intersective/app-v2](https://github.com/intersective/app-v2)
+3. 💪 Opened PR [#1176](https://github.com/intersective/app-v2/pull/1176) in [intersective/app-v2](https://github.com/intersective/app-v2)
+4. 🎉 Merged PR [#7](https://github.com/intersective/practera-sdk/pull/7) in [intersective/practera-sdk](https://github.com/intersective/practera-sdk)
+5. 🗣 Commented on [#7](https://github.com/intersective/practera-sdk/issues/7) in [intersective/practera-sdk](https://github.com/intersective/practera-sdk)
 <!--END_SECTION:activity-->
 
 [musicYT]: https://www.youtube.com/channel/UCG6U1QEg7yCvQBuMHMZC_bQ
