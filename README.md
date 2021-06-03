@@ -36,11 +36,11 @@ I'm **Sasanga chathumal**, Front-end developer from Sri lanka and have 4+ years 
 
 ### ⚡️: Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/intersective/practera-sdk/pull/12) in [intersective/practera-sdk](https://github.com/intersective/practera-sdk)
-2. 🎉 Merged PR [#1](https://github.com/sasangachathumal/portfolio/pull/1) in [sasangachathumal/portfolio](https://github.com/sasangachathumal/portfolio)
-3. 💪 Opened PR [#1](https://github.com/sasangachathumal/portfolio/pull/1) in [sasangachathumal/portfolio](https://github.com/sasangachathumal/portfolio)
-4. 🎉 Merged PR [#11](https://github.com/intersective/practera-sdk/pull/11) in [intersective/practera-sdk](https://github.com/intersective/practera-sdk)
-5. 💪 Opened PR [#11](https://github.com/intersective/practera-sdk/pull/11) in [intersective/practera-sdk](https://github.com/intersective/practera-sdk)
+1. 🎉 Merged PR [#2](https://github.com/sasangachathumal/portfolio/pull/2) in [sasangachathumal/portfolio](https://github.com/sasangachathumal/portfolio)
+2. 💪 Opened PR [#2](https://github.com/sasangachathumal/portfolio/pull/2) in [sasangachathumal/portfolio](https://github.com/sasangachathumal/portfolio)
+3. 💪 Opened PR [#12](https://github.com/intersective/practera-sdk/pull/12) in [intersective/practera-sdk](https://github.com/intersective/practera-sdk)
+4. 🎉 Merged PR [#1](https://github.com/sasangachathumal/portfolio/pull/1) in [sasangachathumal/portfolio](https://github.com/sasangachathumal/portfolio)
+5. 💪 Opened PR [#1](https://github.com/sasangachathumal/portfolio/pull/1) in [sasangachathumal/portfolio](https://github.com/sasangachathumal/portfolio)
 <!--END_SECTION:activity-->
 
 [musicYT]: https://www.youtube.com/channel/UCG6U1QEg7yCvQBuMHMZC_bQ
