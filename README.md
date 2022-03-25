@@ -8,7 +8,7 @@ I'm **Sasanga chathumal**, Front-end developer from Sri lanka and have 4+ years 
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: chathumal.sasanga02@gmail.com
 - ⚡ Fun fact: I love to draw and [Producing Music][musicYT]
-- 📝 [Resume](https://drive.google.com/file/d/1tM7VKt0HM0wCCKClFwoHlAPlGXmqHKKO/view)
+- 📝 [Resume](https://drive.google.com/file/d/1zYbDpOD6x8mA8_D34_94o5fO0DKJDKFa/view)
 
 
 ### Connect with me:
