@@ -1,6 +1,6 @@
 ## Hi there, 👋
 
-I'm **Sasanga chathumal**, Front-end developer from Sri lanka and have 4+ years experience in software development. Currently working at [Practera](https://practera.com/) as a software developer.
+I'm **Sasanga chathumal**, Front-end developer with have 5+ years experience in software development. Currently working at [Practera](https://practera.com/) as a software developer.
 
 <br/>
 
