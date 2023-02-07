@@ -35,11 +35,11 @@ I'm **Sasanga chathumal**, Front-end developer with have 6+ years experience in 
 
 ### ⚡️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#360](https://github.com/filestack/filestack-js/issues/360) in [filestack/filestack-js](https://github.com/filestack/filestack-js)
+1. 💪 Opened PR [#309](https://github.com/intersective/cutie-app/pull/309) in [intersective/cutie-app](https://github.com/intersective/cutie-app)
 2. 🗣 Commented on [#360](https://github.com/filestack/filestack-js/issues/360) in [filestack/filestack-js](https://github.com/filestack/filestack-js)
-3. 🎉 Merged PR [#1683](https://github.com/intersective/app-v2/pull/1683) in [intersective/app-v2](https://github.com/intersective/app-v2)
-4. 💪 Opened PR [#1684](https://github.com/intersective/app-v2/pull/1684) in [intersective/app-v2](https://github.com/intersective/app-v2)
-5. 💪 Opened PR [#1683](https://github.com/intersective/app-v2/pull/1683) in [intersective/app-v2](https://github.com/intersective/app-v2)
+3. 🗣 Commented on [#360](https://github.com/filestack/filestack-js/issues/360) in [filestack/filestack-js](https://github.com/filestack/filestack-js)
+4. 🎉 Merged PR [#1683](https://github.com/intersective/app-v2/pull/1683) in [intersective/app-v2](https://github.com/intersective/app-v2)
+5. 💪 Opened PR [#1684](https://github.com/intersective/app-v2/pull/1684) in [intersective/app-v2](https://github.com/intersective/app-v2)
 <!--END_SECTION:activity-->
 
 [musicYT]: https://www.youtube.com/channel/UCG6U1QEg7yCvQBuMHMZC_bQ
