@@ -35,11 +35,11 @@ I'm **Sasanga chathumal**, Front-end developer with have 6+ years experience in 
 
 ### ⚡️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1792](https://github.com/intersective/app-v2/pull/1792) in [intersective/app-v2](https://github.com/intersective/app-v2)
-2. 🎉 Merged PR [#1754](https://github.com/intersective/app-v2/pull/1754) in [intersective/app-v2](https://github.com/intersective/app-v2)
-3. 🗣 Commented on [#1754](https://github.com/intersective/app-v2/issues/1754) in [intersective/app-v2](https://github.com/intersective/app-v2)
-4. 💪 Opened PR [#1754](https://github.com/intersective/app-v2/pull/1754) in [intersective/app-v2](https://github.com/intersective/app-v2)
-5. 🎉 Merged PR [#1749](https://github.com/intersective/app-v2/pull/1749) in [intersective/app-v2](https://github.com/intersective/app-v2)
+1. 💪 Opened PR [#1793](https://github.com/intersective/app-v2/pull/1793) in [intersective/app-v2](https://github.com/intersective/app-v2)
+2. 🎉 Merged PR [#1792](https://github.com/intersective/app-v2/pull/1792) in [intersective/app-v2](https://github.com/intersective/app-v2)
+3. 🎉 Merged PR [#1754](https://github.com/intersective/app-v2/pull/1754) in [intersective/app-v2](https://github.com/intersective/app-v2)
+4. 🗣 Commented on [#1754](https://github.com/intersective/app-v2/issues/1754) in [intersective/app-v2](https://github.com/intersective/app-v2)
+5. 💪 Opened PR [#1754](https://github.com/intersective/app-v2/pull/1754) in [intersective/app-v2](https://github.com/intersective/app-v2)
 <!--END_SECTION:activity-->
 
 [musicYT]: https://www.youtube.com/channel/UCG6U1QEg7yCvQBuMHMZC_bQ
