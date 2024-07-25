@@ -35,11 +35,11 @@ I'm **Sasanga chathumal**, Front-end developer with have 6+ years experience in 
 
 ### ⚡️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2205](https://github.com/intersective/app/pull/2205) in [intersective/app](https://github.com/intersective/app)
-2. 💪 Opened PR [#2205](https://github.com/intersective/app/pull/2205) in [intersective/app](https://github.com/intersective/app)
-3. ❌ Closed PR [#2200](https://github.com/intersective/app/pull/2200) in [intersective/app](https://github.com/intersective/app)
-4. 💪 Opened PR [#2201](https://github.com/intersective/app/pull/2201) in [intersective/app](https://github.com/intersective/app)
-5. 💪 Opened PR [#2200](https://github.com/intersective/app/pull/2200) in [intersective/app](https://github.com/intersective/app)
+1. 🎉 Merged PR [#454](https://github.com/intersective/cutie-app/pull/454) in [intersective/cutie-app](https://github.com/intersective/cutie-app)
+2. 💪 Opened PR [#2206](https://github.com/intersective/app/pull/2206) in [intersective/app](https://github.com/intersective/app)
+3. ❌ Closed PR [#2205](https://github.com/intersective/app/pull/2205) in [intersective/app](https://github.com/intersective/app)
+4. 💪 Opened PR [#2205](https://github.com/intersective/app/pull/2205) in [intersective/app](https://github.com/intersective/app)
+5. ❌ Closed PR [#2200](https://github.com/intersective/app/pull/2200) in [intersective/app](https://github.com/intersective/app)
 <!--END_SECTION:activity-->
 
 [musicYT]: https://www.youtube.com/channel/UCG6U1QEg7yCvQBuMHMZC_bQ
