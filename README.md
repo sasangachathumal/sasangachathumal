@@ -35,11 +35,11 @@ I'm **Sasanga chathumal**, Front-end developer with have 6+ years experience in 
 
 ### ⚡️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2201](https://github.com/intersective/app/pull/2201) in [intersective/app](https://github.com/intersective/app)
-2. 🎉 Merged PR [#453](https://github.com/intersective/cutie-app/pull/453) in [intersective/cutie-app](https://github.com/intersective/cutie-app)
-3. 💪 Opened PR [#466](https://github.com/intersective/cutie-app/pull/466) in [intersective/cutie-app](https://github.com/intersective/cutie-app)
-4. 🎉 Merged PR [#465](https://github.com/intersective/cutie-app/pull/465) in [intersective/cutie-app](https://github.com/intersective/cutie-app)
-5. 💪 Opened PR [#465](https://github.com/intersective/cutie-app/pull/465) in [intersective/cutie-app](https://github.com/intersective/cutie-app)
+1. 🎉 Merged PR [#468](https://github.com/intersective/cutie-app/pull/468) in [intersective/cutie-app](https://github.com/intersective/cutie-app)
+2. 💪 Opened PR [#468](https://github.com/intersective/cutie-app/pull/468) in [intersective/cutie-app](https://github.com/intersective/cutie-app)
+3. 💪 Opened PR [#467](https://github.com/intersective/cutie-app/pull/467) in [intersective/cutie-app](https://github.com/intersective/cutie-app)
+4. 🎉 Merged PR [#2201](https://github.com/intersective/app/pull/2201) in [intersective/app](https://github.com/intersective/app)
+5. 🎉 Merged PR [#453](https://github.com/intersective/cutie-app/pull/453) in [intersective/cutie-app](https://github.com/intersective/cutie-app)
 <!--END_SECTION:activity-->
 
 [musicYT]: https://www.youtube.com/channel/UCG6U1QEg7yCvQBuMHMZC_bQ
