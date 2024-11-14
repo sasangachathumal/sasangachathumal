@@ -1,10 +1,10 @@
 ## Hi there, 👋
 
-I'm **Sasanga chathumal**, Front-end developer with have 6+ years experience in software development. Currently working at [Practera](https://practera.com/) as a software developer.
+I'm **Sasanga chathumal**, Front-end developer with have 6+ years experience in software development. Currently working at [IFS](https://www.ifs.com/) as a lead software engineer.
 
 <br/>
 
-- 🌱  I’m currently learning React and Flutter.
+- 🌱  I’m currently learning Flutter.
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: chathumal.sasanga02@gmail.com
 - ⚡ Fun fact: I love to draw and [Producing Music][musicYT]
@@ -46,7 +46,6 @@ I'm **Sasanga chathumal**, Front-end developer with have 6+ years experience in 
 [twitter]: https://twitter.com/SasangaChathum1
 [instagram]: https://www.instagram.com/sasanga_chathumal/
 [linkedin]: https://www.linkedin.com/in/sasanga-chathumal/
-[facebook]: https://www.facebook.com/sasanga.chathumal/
 
 <!-- Feamwork Site Links -->
 [angular]: https://angular.io
