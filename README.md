@@ -1,6 +1,6 @@
 ## Hi there, 👋
 
-I'm **Sasanga chathumal**, Front-end developer with have 6+ years experience in software development. Currently working at [IFS](https://www.ifs.com/) as a lead software engineer.
+I'm **Sasanga chathumal**, Front-end developer with have 8+ years experience in software development. Currently working at [IFS](https://www.ifs.com/) as a lead software engineer.
 
 <br/>
 
