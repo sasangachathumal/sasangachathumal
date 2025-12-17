@@ -1,61 +1,73 @@
-## Hi there, 👋
+# 👋 Hi, I'm Sasanga Chathumal
 
-I'm **Sasanga chathumal**, Front-end developer with have 8+ years experience in software development. Currently working at [IFS](https://www.ifs.com/) as a lead software engineer.
+A Lead Software Engineer with 9+ years of experience building web and mobile applications used in real world production environments. I enjoy taking ideas from early concepts through design, architecture, and implementation, with a strong focus on maintainability and developer experience.
 
-<br/>
+Alongside my professional work, I build developer tools and small products, experimenting with modern frontend technologies and sharing what I learn through open-source and side projects. 🚀 Currently working on Building developer tools and products, with a focus on leveling up in **React, Next.js, Node.js and frontend architecture**.
 
-- 🌱  I’m currently learning Flutter.
-- 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach me: chathumal.sasanga02@gmail.com
-- ⚡ Fun fact: I love to draw and [Producing Music][musicYT]
-- 📝 [Resume](https://drive.google.com/file/d/1zYbDpOD6x8mA8_D34_94o5fO0DKJDKFa/view)
+⚡ Outside of software, I enjoy music production ([SMSC MUSIC][musicYT]), Gaming and drawing.
 
-### Connect with me
+[<img alt="fb" src="./public/icons/link-1.png" height="35" style="padding-right:1rem;">](linkedin) [<img alt="fb" src="./public/icons/fb-1.png" height="35" style="padding-right:1rem;">](facebook) [<img alt="fb" src="./public/icons/x-1.png" height="35">](twitter)
+📫 Reach me at: **<sasanga.dev@gmail.com>**
+📝 View my [Resume](https://drive.google.com/file/d/14wSlCZz8f1VcA5eJIkurs1P2WbvHPqeP/view?usp=sharing)
 
-[<code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="sasanga chathumal" height="25"/></code>][linkedin] [<code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" alt="sasangachathum1" height="25"/></code>][twitter] [<code><img src='https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg' height="25"></code>][facebook] [<code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" height="25" /></code>][instagram]
+---
 
-### Programing Languages and Tools
+### 🧩 Featured Projects
 
-- Front-end Development Frameworks, Technologies and Tools
+- **[Kayak Adventure](https://kayakadventure.lk/)** - A web app built for a small Sri Lankan business with a custom-styled Bootstrap UI, MySQL integration, and an admin module for managing the kayaking tour gallery and showcasing services.
+
+- **[ProjXO](https://www.npmjs.com/package/projxo)** — A cross-platform CLI tool to scaffold and manage project structures efficiently. Designed to improve developer productivity with opinionated defaults and extensibility [Repository](https://github.com/sasangachathumal/ProjXO). ***Available on [npm](https://www.npmjs.com/package/projxo).***
   
-    [<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angularjs" height="25"/></code>][angular] [<code><img src="https://ionicframework.com/img/meta/logo.png" alt="ionic" height="25"/></code>][ionic] [<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" height="25"/></code>][javascript] [<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" height="25"/></code>][typescript] [<code><img src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" alt="jquery" height="25"/></code>][jquery] [<code><img src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" alt="materialize" height="25"/></code>][materializecss] [<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" height="25"/></code>][bootstrap] [<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="scss" height="25"/></code>][sass] [<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="25"/></code>][htmlcss] [<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="25"/></code>][htmlcss] [<code><img src="https://avatars0.githubusercontent.com/u/3284117?s=280&v=4" alt="karma" height="25"/></code>][karma] [<code><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/1200px-Logo_jasmine.svg.png" alt="jasmine" height="25"/></code>][jasmine]
-    <br/>
-- Back-end Development Frameworks, Technologies and Tools
-  
-    [<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png" alt="nodeJs" height="25"/></code>](https://nodejs.org/en/) [<code><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" height="25"/></code>](https://expressjs.com/) [<code><img src="https://cdn.filestackcontent.com/YO2eS6E7QmwNbjzGrNZz" alt="sequelize" height="25"/></code>](https://sequelize.org/) [<code><img src="https://www.playframework.com/assets/images/logos/3740142a5b6d7e5c73afc223f837c2ed-play_full_color.png" alt="playframework" height="25"/></code>](https://www.playframework.com/) [<code><img src="https://ebean.io/images/logo-200.png" alt="ebean" height="25"/></code>](https://ebean.io/)  [<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" height="25"/></code>](https://firebase.google.com/) [<code><img src="https://1.bp.blogspot.com/-fMzsI_Vpkx0/WVL0Kt8evjI/AAAAAAAAEDs/d5XIniNsL60xtMyB5MrHsnhufhdi5knMACLcBGAs/s1600/java-8.png" alt="google cloud service" height="25"/></code>](https://cloud.google.com/) [<code><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySql" height="25"/></code>](https://www.mysql.com/) [<code><img src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" alt="hibernate" height="25"/></code>](https://hibernate.org/) [<code><img src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" alt="Java" height="25"/></code>](https://www.java.com/en/)
-  <br/>
-- Sound knowledge in
-  
-    [<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android" height="25"/></code>](https://www.android.com/) [<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" height="25"/></code>](https://www.docker.com/) [<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="25"/></code>](https://reactjs.org/) [<code><img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="flutter" height="25"/></code>](https://flutter.dev/) [<code><img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objective-c" height="25"/></code>](https://en.wikipedia.org/wiki/Objective-C) [<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="swift" height="25"/></code>](https://developer.apple.com/swift/)
-  <br/>
-- Others
-  
-    [<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm" height="25"/></code>](https://www.npmjs.com/) [<code><img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" alt="Git" height="25"/></code>](https://git-scm.com/) [<code><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="Github" height="25"/></code>](https://github.com/) [<code><img src="https://seeklogo.com/images/B/bitbucket-logo-D072214725-seeklogo.com.png" alt="BitBucket" height="25"/></code>](https://bitbucket.org/) [<code><img src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/sketch/sketch.png" alt="sketch" height="25"/></code>](https://www.sketch.com/) [<code><img src="https://cdn.freebiesupply.com/logos/large/2x/adobe-xd-logo-png-transparent.png" alt="Xd" height="25"/></code>](https://www.adobe.com/products/xd.html) [<code><img src="https://seeklogo.com/images/P/photoshop-2020-logo-37B02055A4-seeklogo.com.png" alt="photoshop" height="25"/></code>](https://www.adobe.com/products/photoshop.html) [<code><img src="https://seeklogo.com/images/A/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png" alt="illustrator" height="25"/></code>](https://www.adobe.com/products/illustrator.html) [<code><img src="https://seeklogo.com/images/A/after-effects-cs6-logo-EC9F3A3961-seeklogo.com.png" alt="aftereffects" height="25"/></code>](https://www.adobe.com/products/aftereffects.html)
-<br/>
+- **Focusify** — A Pomodoro-based productivity mobile app built with React Native.  
+  Focused on minimal UI, habit-building, and distraction-free work sessions.
+---
 
-### ⚡️ Recent GitHub Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#468](https://github.com/intersective/cutie-app/pull/468) in [intersective/cutie-app](https://github.com/intersective/cutie-app)
-2. 💪 Opened PR [#468](https://github.com/intersective/cutie-app/pull/468) in [intersective/cutie-app](https://github.com/intersective/cutie-app)
-3. 💪 Opened PR [#467](https://github.com/intersective/cutie-app/pull/467) in [intersective/cutie-app](https://github.com/intersective/cutie-app)
-4. 🎉 Merged PR [#2201](https://github.com/intersective/app/pull/2201) in [intersective/app](https://github.com/intersective/app)
-5. 🎉 Merged PR [#453](https://github.com/intersective/cutie-app/pull/453) in [intersective/cutie-app](https://github.com/intersective/cutie-app)
-<!--END_SECTION:activity-->
+### 🧰 Languages | Frameworks | Tools
+
+<img src="./public/img/fe/Angular.png" alt="angular" height="30" style="margin-right:1rem;"/>
+<img src="./public/img/mobile/ionic.png" alt="ionic" height="30" style="margin-right:1rem;"/>
+<img src="./public/img/fe/nextjs.png" alt="nextjs" height="30" style="margin-right:1rem;"/> 
+<img src="./public/img/fe/React.png" alt="react" height="30" style="margin-right:1rem;"/> 
+<img src="./public/img/fe/typescript.png" alt="typescript" height="30" style="margin-right:1rem;"/> 
+<img src="./public/img/fe/javascript.png" alt="javascript" height="30" style="margin-right:1rem;"/>
+<img src="./public/img/fe/sass.png" alt="sass" height="30" style="margin-right:1rem;"/> 
+<img src="./public/img/fe/Tailwind.png" alt="Tailwind" height="30" style="margin-right:1rem;"/> 
+<img src="./public/img/fe/angular-material.png" alt="angularmt" height="30" style="margin-right:1rem;"/> 
+<img src="./public/img/fe/bootstrap.png" alt="bootstrap" height="30" style="margin-right:1rem;"/>
+<img src="./public/img/mobile/expo.png" alt="expo" height="25" style="margin-right:1rem;"/>
+
+---
+
+<img src="./public/img/be/Nodejs.png" alt="Nodejs" height="30" style="margin-right:1rem;"/>
+<img src="./public/img/be/firebase.png" alt="firebase" height="30" style="margin-right:1rem;"/> 
+<img src="./public/img/be/mysql.png" alt="mysql" height="30" style="margin-right:1rem;"/> 
+<img src="./public/img/be/SQLite.png" alt="SQLite" height="30" style="margin-right:1rem;"/> 
+<img src="./public/img/be/PHP.png" alt="php" height="30" style="margin-right:1rem;"/>
+<img src="./public/img/be/Vercel.svg" alt="Vercel" height="25" style="margin-right:1rem;"/> 
+<img src="./public/img/be/C-sharp.png" alt="C#" height="30" style="margin-right:1rem;"/> 
+<img src="./public/img/be/Python.png" alt="python" height="30" style="margin-right:1rem;"/>
+<img src="./public/img/be/flask.webp" alt="flask" height="30" style="margin-right:1rem;"/>
+
+---
+
+<img src="./public/img/testing/jest.png" alt="jest" height="30" style="margin-right:1rem;"/> 
+<img src="./public/img/testing/cypress.webp" alt="cypress" height="30" style="margin-right:1rem;"/> 
+<img src="./public/img/testing/karma.png" alt="karma" height="30" style="margin-right:1rem;"/>
+<img src="./public/img/testing/jasmine.png" alt="jasmine" height="30" style="margin-right:1rem;"/> 
+
+---
+
+<img src="./public/img/other/git.png" alt="git" height="30" style="margin-right:1rem;"/> 
+<img src="./public/img/other/github.png" alt="github" height="30" style="margin-right:1rem;"/>
+<img src="./public/img/other/VS-Code.png" alt="vsc" height="30" style="margin-right:1rem;"/>  
+<img src="./public/img/other/figma.png" alt="figma" height="30" style="margin-right:1rem;"/> 
+<img src="./public/img/other/npm.png" alt="npm" height="30" style="margin-right:1rem;"/>  
+<img src="./public/img/other/bitbucket.png" alt="bitbucket" height="30" style="margin-right:1rem;"/> 
+<img src="./public/img/other/Android-Studio.png" alt="ad" height="30" style="margin-right:1rem;"/> 
+<img src="./public/img/other/PyCharm.png" alt="PyCharm" height="30" style="margin-right:1rem;"/> 
+<img src="./public/img/other/cursor.png" alt="cursor" height="30" style="margin-right:1rem;"/>
 
 [musicYT]: https://www.youtube.com/channel/UCG6U1QEg7yCvQBuMHMZC_bQ
 [twitter]: https://twitter.com/SasangaChathum1
-[instagram]: https://www.instagram.com/sasanga_chathumal/
 [linkedin]: https://www.linkedin.com/in/sasanga-chathumal/
-
-<!-- Feamwork Site Links -->
-[angular]: https://angular.io
-[ionic]: https://ionicframework.com
-[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[typescript]: https://www.typescriptlang.org/
-[jquery]: https://jquery.com/
-[materializecss]: https://materializecss.com/
-[bootstrap]: https://getbootstrap.com/
-[sass]: https://sass-lang.com/
-[htmlcss]: https://www.w3.org/standards/webdesign/htmlcss.html
-[karma]: https://karma-runner.github.io/latest/index.html
-[jasmine]: https://jasmine.github.io/
+[facebook]: https://www.facebook.com/profile.php?id=61582131982373
